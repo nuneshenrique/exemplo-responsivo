@@ -1,0 +1,34 @@
+.cabecalho{
+
+background-color: var(--fundo-azul);
+margin:0;
+
+}
+.container{
+display: flex;align-items: center;
+}
+.container{
+width: 120px; height: 120px; 
+
+
+}
+.container_titulo, .container_imagem, .container_frase{
+pedding: 0.1em;color: white;
+
+}
+.container_titulo, .container_frase{
+display: none;
+
+}
+.cx-texto{
+display: flex;justify-content: center;
+
+}
+.texto-mobile{
+
+    display: block; font-size: 50px;
+    margin-top: 3em; pedding:1m;
+}
+.texto-desktop, .texto-tablet{ 
+    display:none;
+}
