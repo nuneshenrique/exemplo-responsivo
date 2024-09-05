@@ -32,3 +32,21 @@ display: flex;justify-content: center;
 .texto-desktop, .texto-tablet{ 
     display:none;
 }
+
+@media screen and (win-width: 820px){
+    .container_titulo{
+        font-size: 30px; display: inline-block;
+}
+    .container_titulo{
+        font-weight: 400;
+    }
+    .texto-tablet{
+        display: block; font-size: 70px;color: white;
+        margin-top: 3em;padding: 1em;
+    }
+    .texto-desktop, .texto-mobile{
+        display: none;}
+    }
+        @media and { min-width: 1728px;{
+        
+    }
