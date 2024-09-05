@@ -1,7 +1,8 @@
 @import url("estilos/header.css");
 @import url( `https://fonts.googleapis.com/css2?family=dosis:wght@200..800&display=swap´
 :root);
---amrelo:
+--amrelo:#d7c74df7; --fundo-azul:#23239de4;
+--lilas:#a510a5; --fonte-projeto:"Dosis"
 
 body{
     background-color: var(---amarelo);
