@@ -1,0 +1,9 @@
+@import url("estilos/header.css");
+@import url( `https://fonts.googleapis.com/css2?family=dosis:wght@200..800&display=swap´
+:root);
+--amrelo:
+
+body{
+    background-color: var(---amarelo);
+    margin: 0;font-family: var(--fonte-projrto);
+}
